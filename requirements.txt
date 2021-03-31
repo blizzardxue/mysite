@@ -66,7 +66,7 @@ kiwisolver==1.0.1
 lml==0.0.2
 Logbook==1.4.0
 lru-dict==1.1.6
-lxml==4.2.4
+lxml==4.6.3
 macropy3==1.1.0b2
 Mako==1.0.7
 MarkupSafe==1.0
