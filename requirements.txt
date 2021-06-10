@@ -28,7 +28,7 @@ cyordereddict==1.0.0
 Cython==0.28.5
 decorator==4.3.0
 delegator.py==0.1.0
-Django==2.1.1
+Django==2.2.24
 django-ranged-response==0.2.0
 django-simple-captcha==0.5.9
 docutils==0.14
